@@ -1,0 +1,8 @@
+{
+    "require": {
+        "endroid/qrcode": "^6.1",
+        "endroid/qr-code": "^6.1",
+        "kickstartph/semaphore-client": "^0.2.0",
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}
